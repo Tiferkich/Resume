@@ -231,7 +231,7 @@
 ## 🔗 GitHub репозитории
 
 ### 🎓 Университетские проекты
-- **[Secure Password Manager](https://github.com/your-username/secure-password-manager)** - Полнофункциональное приложение для управления паролями с гибридной архитектурой
-- **[Game2D - Ролевая игра](https://github.com/your-username/game2d)** - Многопоточная 2D игра на C++20 с SFML
-- **[AsseblerVersusC](https://github.com/your-username/assembler-vs-c)** - Сравнение производительности C и Assembly кода
+- **[Secure Password Manager](https://github.com/Tiferkich/mephi-project)** - Полнофункциональное приложение для управления паролями с гибридной архитектурой
+- **[Game2D - Ролевая игра](https://github.com/Tiferkich/Game2D)** - Многопоточная 2D игра на C++20 с SFML
+- **[AsseblerVersusC](https://github.com/Tiferkich/AsseblerVersusC)** - Сравнение производительности C и Assembly кода
 ---
